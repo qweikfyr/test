@@ -1,0 +1,16 @@
+{
+  "name": "componets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "v3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "buildcss": "tailwind build src/input.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
